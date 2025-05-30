@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://repoman-ten.vercel.app/sitemap.xml
